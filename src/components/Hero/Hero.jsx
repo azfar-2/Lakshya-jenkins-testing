@@ -8,7 +8,7 @@ const Hero = () => {
         <div className="container grid grid-cols-1 sm:grid-cols-2 gap-4">
           <div className="text-white space-y-4 lg:pr-36">
             <h1 data-aos="fade-up" className="text-5xl font-bold">
-              LAKSHYA THE EARTH
+              orbit THE Lakshya
             </h1>
             <p data-aos="fade-up" data-aos-delay="300">
             Earth travels around the Sun in a big circle, like a dance. It's about 149.60 million kilometers away from the Sun, and it takes about 365.256 days to complete one full circle. This path is like a stretched-out oval, but it's still really close to the Sun. So, Earth's journey around the Sun is like a graceful dance in space.
